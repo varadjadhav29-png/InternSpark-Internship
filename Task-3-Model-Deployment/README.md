@@ -53,12 +53,12 @@ docker run -p 5000:5000 ipl-api
 ## Project Screenshots
 
 **1. Server Running Locally**
-![Terminal output showing server running](screenshots/1_terminal.png)
+![Terminal output showing server running]
 
 **2. Web Application Interface**
-![Home page of the web app](screenshots/2_homepage.png)
+![Home page of the web app]
 
 **3. Model Prediction Output**
-![Prediction result from the model](screenshots/3_prediction_result.png)
+![Prediction result from the model]
 
 #Author - Varad Jadhav 
