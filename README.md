@@ -6,12 +6,12 @@ This repository contains the complete set of tasks completed during the InternSp
 
 ## 📂 Project Structure
 
-#Task-1-ML-Classification/
+#Task-1-ML-Classification
 1) IPL_Match_Prediction_Report.pdf
 2) README.md
 3) internship_task_1.ipynb
 
-#Task-3-Model-Deployment/
+#Task-3-Model-Deployment
 1) app.py
 2) train_model.py
 3) Dockerfile
@@ -20,7 +20,7 @@ This repository contains the complete set of tasks completed during the InternSp
 6) README.md
 7) screenshots/
  
-#Task-4-Responsible-AI/
+#Task-4-Responsible-AI
 1) responsible_ai_analysis.ipynb
 2) README.md
 
