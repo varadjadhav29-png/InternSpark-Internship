@@ -15,3 +15,5 @@ By cross-analyzing accuracy across target feature subsets, we evaluated structur
 To secure long-term model reliability and address potential data biases, we recommend:
 1. **Form-Weight Regularization:** Applying feature-penalty limits to ensure historic team names do not override dynamic, real-time input markers like active weekly form ratings.
 2. **Data Balancing across Venues:** Sampling day and night matches equally during training iterations to eliminate latent stadium advantage skews.
+
+#Author -Varad Jadhav
