@@ -1,4 +1,5 @@
 shap
-pandas
-scikit-learn
 matplotlib
+pandas
+numpy
+scikit-learn
