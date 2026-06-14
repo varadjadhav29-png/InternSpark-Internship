@@ -6,20 +6,22 @@ This repository contains the complete set of tasks completed during the InternSp
 
 ## 📂 Project Structure
 
-├── Task-1-ML-Classification/
-│   ├── IPL_Match_Prediction_Report.pdf
-│   ├── README.md
-│   └── internship_task_1.ipynb
-├── Task-3-Model-Deployment/
-│   ├── app.py
-│   ├── train_model.py
-│   ├── Dockerfile
-│   ├── model.pkl
-│   ├── requirements.txt
-│   ├── README.md
-│   └── screenshots/
-└── Task-4-Responsible-AI/
-    ├── responsible_ai_analysis.ipynb
-    └── README.md
+#Task-1-ML-Classification/
+1) IPL_Match_Prediction_Report.pdf
+2) README.md
+3) internship_task_1.ipynb
+
+#Task-3-Model-Deployment/
+1) app.py
+2) train_model.py
+3) Dockerfile
+4) model.pkl
+5) requirements.txt
+6) README.md
+7) screenshots/
+ 
+#Task-4-Responsible-AI/
+1) responsible_ai_analysis.ipynb
+2) README.md
 
 #Author -Varad Jadhav 
