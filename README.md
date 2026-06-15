@@ -18,7 +18,7 @@ This repository contains the complete set of tasks completed during the InternSp
 4) model.pkl
 5) requirements.txt
 6) README.md
-7) screenshots/
+7) screenshots
  
 #Task-4-Responsible-AI
 1) responsible_ai_analysis.ipynb
